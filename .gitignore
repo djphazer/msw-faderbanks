@@ -1,0 +1,8 @@
+*.bin
+*.uf2
+*.hex
+*.o
+*.zip
+.pio
+.cache
+compile_commands.json
