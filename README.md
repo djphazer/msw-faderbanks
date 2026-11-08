@@ -10,7 +10,7 @@ Old code has been ported from Atmel Studio projects to the Adafruit SAMD Arduino
 
 **XVI-M** (Desktop only) uses a separate firmware, contained in the `xvim` directory.
 
-Inside each subdirectory, there is a `build.sh` script that will build the firmware and produce a `firmware.uf2` file. You can also run `pio run -t upload` to reflash directly over USB Serial, but this tends to erase stored settings.
+Inside each subdirectory, there is a `build.sh` script that will build the firmware and produce a `*.uf2` file. You can also run `pio run -t upload` to reflash directly over USB Serial, but this tends to erase stored settings.
 
 # Web Editor
 
